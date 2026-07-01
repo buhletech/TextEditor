@@ -4,11 +4,12 @@ The texteditor is a desktop text editing application built using JavaFX and FXML
 
 --- Prequisites ---
 
-  JDK 17 or later
-  Maven
+  - JDK 17 or later
+  - Maven
 
 --- Getting Started ---
 
 Clone repository:
-git clone https://github.com/buhletech/TextEditor.git
-cd TextEditor
+- git clone https://github.com/buhletech/TextEditor.git
+-
+- cd TextEditor
