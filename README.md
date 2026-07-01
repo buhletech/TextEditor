@@ -11,5 +11,4 @@ The texteditor is a desktop text editing application built using JavaFX and FXML
 
 Clone repository:
 - git clone https://github.com/buhletech/TextEditor.git
--
 - cd TextEditor
